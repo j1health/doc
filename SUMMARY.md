@@ -1,9 +1,7 @@
 # Summary
 
-* [前言簡介](README.md)
-
-1. Rad
-
-2. Green
-
-3. Blue
+* [第一节](section1/README.md)
+    * [样例 1](section1/example1.md)
+    * [样例 2](section1/example2.md)
+* [第二节](section2/README.md)
+    * [样例 1](section2/example1.md)
