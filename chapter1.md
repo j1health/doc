@@ -1,6 +1,4 @@
 # First Chapter
 
-Second 
 
-Third
 
